@@ -1,6 +1,6 @@
 {
   "name": "googlepackage",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vietanhpham-monster/GooglePackage/issues"
   },
-  "homepage": "https://github.com/vietanhpham-monster/GooglePackage#readme"
+  "homepage": "https://github.com/vietanhpham-monster/GooglePackage#readme",
+  "files": [
+    "Editor",
+    "Runtime"
+  ]
 }
