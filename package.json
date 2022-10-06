@@ -1,23 +1,29 @@
 {
   "name": "googlepackage",
-  "version": "0.0.4",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "1.2.171",
+  "keywords": [
+    "Google",
+    "Android",
+    "Gradle",
+    "Cocoapods",
+    "Dependency",
+    "Unity Package Manager",
+    "Unity",
+    "vh-name:play-services-resolver",
+    "vh-name:unity-jar-resolver",
+    "vh-name:external-dependency-manager",
+    "vh-name:External Dependency Manager for Unity"
+  ],
+  "author": {
+    "name": "Google LLC",
+    "url": "https://github.com/googlesamples/unity-jar-resolver"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vietanhpham-monster/GooglePackage.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vietanhpham-monster/GooglePackage/issues"
-  },
-  "homepage": "https://github.com/vietanhpham-monster/GooglePackage#readme",
+  "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs), iOS CocoaPods, version management of transitive dependencies, and/or management of Unity Package Manager registries.",
+  "dependencies": {},
   "files": [
-    "Editor",
-    "Runtime"
+    "Documentation~",
+    "ExternalDependencyManager",
+    "LICENSE",
+    "README"
   ]
 }
